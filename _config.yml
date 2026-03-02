@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: 廖文立
 title: Max Liao
-email: max90156@gmail.com
+email: max20011223@gmail.com
 email_title: Email
 #phone: 0934085448
 #phone_title: Mobile
@@ -23,9 +23,9 @@ darkmode: true
 #github_username:  jekyll
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
-facebook_username: wenli.liao1
+#facebook_username: wenli.liao1
 #flickr_username: jekyll
-instagram_username: liao_maxieee
+#instagram_username: liao_maxieee
 #linkedin_username: jekyll
 #xing_username: jekyll
 #pinterest_username: jekyll
@@ -54,9 +54,9 @@ about_profile_image: my_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   To whom it may concerned:
   
-  My name is Max. I'm a sophomore studying [Mathematics](http://www.math.ntu.edu.tw/) at the National Taiwan University.
+  My name is Max Liao. I am a graduate of the [Department of Mathematics at National Taiwan University](http://www.math.ntu.edu.tw/).
   
-  大家好，我是[台大數學系](http://www.math.ntu.edu.tw/)大三的廖文立。
+  大家好，我是[台大數學系](http://www.math.ntu.edu.tw/)畢業的廖文立。
 
 content:
   - title: Education
@@ -65,38 +65,43 @@ content:
       - layout: top-left
         title: National Taiwan University
         sub_title: Department of Mathematics
-        caption: 2020 - Now
+        caption: 2020 - 2024
         quote: >
           NTU's institutional predecessor was Taihoku Imperial University, founded in 1928 by the Japanese colonial administration.
         description: | # this will include new lines to allow paragraphs
           在台大念書每天都是充滿挑戰的日子，每一位同學都是菁英中的菁英，因此也激勵我不斷地吸收更多新知識。
-      - layout: top-left
-        title: Taipei Private Dongshan High School
-        caption: 2017 - 2020
-        description: |
-          由於東山高中三年良好的教育環境與學習訓練，讓我在準備學測與指考時，有效規劃時間和衝刺進度，進而考上台灣第一學府。
+   #   - layout: top-left
+   #     title: Taipei Private Dongshan High School
+    #    caption: 2017 - 2020
+  #      description: |
+     #     由於東山高中三年良好的教育環境與學習訓練，讓我在準備學測與指考時，有效規劃時間和衝刺進度，進而考上台灣第一學府。
           
-          在東山的日子中，我很榮幸的成為了東山高中戲劇社的創社元老，並獲得了第一屆最佳演員獎。
-      - layout: top-left
-        title: Kang Chiao International School
-        caption: 2008 - 2017
-        quote: > 
-          Kang Chiao brings me the world
-        description: |
-          康橋的雙語教學奠定了我英文扎實的基礎，此外，在康橋就學時，我也常參加慈善募款活動及各種戶外運動。
+     #     在東山的日子中，我很榮幸的成為了東山高中戲劇社的創社元老，並獲得了第一屆最佳演員獎。
+   #   - layout: top-left
+  #      title: Kang Chiao International School
+  #      caption: 2008 - 2017
+  #      quote: > 
+  #        Kang Chiao brings me the world
+   #     description: |
+    #      康橋的雙語教學奠定了我英文扎實的基礎，此外，在康橋就學時，我也常參加慈善募款活動及各種戶外運動。
           
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: 雨林新零售
+        title: 國泰人壽 投資型商品部
         sub_title: Intern
-        caption: July - September 2020
-        link: https://www.rainforestretail.com.tw/
-        quote: >
-          雨林新零售 就像是品牌零售商的經紀人
-        description: | # this will include new lines to allow paragraphs
-          在雨林實習的過程中，我負責整理並分析過往各個平台的商品活動。讓我印象最深刻的是雨林舒服的工作環境，開放式的空間就像在一個咖啡廳。
+        caption: 2024/2 ~ 2024/6
+        #link: https://www.micb2b.com/about/introduction/
+        #quote: >
+        #description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: 國立臺灣大學 統計與數據科學研究所
+        sub_title: Part-Time
+        caption: 2022/8 ~ 2024/6
+        #link: https://www.micb2b.com/about/introduction/
+        #quote: >
+        #description: | # this will include new lines to allow paragraphs
       - layout: left
         title: 帆宣系統科技的「華南銀行 Data Base Center」建案
         sub_title: Intern
@@ -107,29 +112,40 @@ content:
           在帆宣實習的期間，我在工務所負責整理資料和製作自主檢查表及每日報告，而在工地時，我擔任工程師的助手，協助他們完成各項任務。這些都是非常難得的經驗。
           
           ![image](./images/IMG_7463.JPG)
+      - layout: left
+        title: 雨林新零售
+        sub_title: Intern
+        caption: July - September 2020
+        link: https://www.rainforestretail.com.tw/
+        quote: >
+          雨林新零售 就像是品牌零售商的經紀人
+        description: | # this will include new lines to allow paragraphs
+          在雨林實習的過程中，我負責整理並分析過往各個平台的商品活動。讓我印象最深刻的是雨林舒服的工作環境，開放式的空間就像在一個咖啡廳。
+
           
-  - title: Skills
-    layout: list
-    content:
-      - layout: top-middle
-        title: Python
-        sub_title: 中等
+
+  #- title: Skills
+   # layout: list
+    #content:
+     # - layout: top-middle
+      #  title: Python
+       # sub_title: 中等
         
-      - layout: top-middle
-        title: Photoshop
-        sub_title: 略懂
+      #- layout: top-middle
+    #    title: Photoshop
+   #     sub_title: 略懂
         
-      - layout: top-middle
-        title: Excel
-        sub_title: 中等
+  #    - layout: top-middle
+   #     title: Excel
+   #     sub_title: 中等
         
-      - layout: top-middle
-        title: Word
-        sub_title: 中等
+  #    - layout: top-middle
+   #     title: Word
+    #    sub_title: 中等
         
-      - layout: top-middle
-        title: PowerPoint
-        sub_title: 中等
+   #   - layout: top-middle
+    #    title: PowerPoint
+    #    sub_title: 中等
         
   - title: Languages
     layout: list
@@ -168,50 +184,7 @@ content:
           
           大富翁是一款經典的童玩遊戲，老少咸宜，從一開始的桌上型遊戲，到後來有很多相關的電腦遊戲。
           所以我們設計了一個以台大校園為基底的大富翁遊戲，其中的遊戲元素都採用台大校園裡的景物，比方說可以買下總圖、人物有教授和助教、事件有獲得獎學金之類的。
-      - layout: left
-        title: 用PhotoShop合成影像
-        sub_title: 原始圖片
-        additional_links:
-          - title: Portrait
-            icon: fab fa-github
-            url: https://imgur.com/gallery/Ger0dry
-          - title:  Dragon
-            icon: fab fa-github
-            url: https://imgur.com/gallery/gxuB6Kh
-          - title: Tsunami
-            icon: fab fa-github
-            url: https://imgur.com/gallery/Zi1NCVd
-          - title: Kraken
-            icon: fab fa-github
-            url: https://imgur.com/gallery/FcfhNup
-        quote: >
-          以下為合成的圖片
-        description: | # this will include new lines to allow paragraphs
-          ![image](./images/合成作業01.png)
-      - layout: left
-        quote: >
-          以下為自己畫的素描
-        description: | # this will include new lines to allow paragraphs
-          ![image](./images/IMG_3522.JPG)
-      - layout: left
-        quote: > 
-          以下為合成的圖片
-        description: |
-          ![image](./images/合成練習.png)
-      - layout: left
-        quote: > 
-          以下為用 PS 電繪的圖片
-        description: |
-          ![image](./images/美人魚電繪.png)
-      - layout: left
-        title: 使用iMovie剪輯影片 
-        link: https://youtu.be/GeQjouNv24w
-        link_text: 影片連結
-        quote: >
-          網路知名迷因合集
-        description: | # this will include new lines to allow paragraphs
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/GeQjouNv24w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+     
   - title: A Little More About Me
     layout: list
     content: 
@@ -222,7 +195,7 @@ content:
         description: |
           ![image](./images/AMC12.jpeg)
       - layout: top-left
-        title: TOEIC® Listening and Reading Test
+        title: TOEIC® Listening and Reading Test 870分
         caption: 2017
         description: |
           ![image](./images/多益.jpeg)
