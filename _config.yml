@@ -189,16 +189,21 @@ content:
     layout: list
     content: 
       - layout: top-left
-        title: American Mathematics Competitions 12
-        sub_title: (AMC12)
-        caption: 2019
+        title: GRE General Test 326分
+        caption: 2023
         description: |
-          ![image](./images/AMC12.jpeg)
+          ![image](./images/GRE.png)
       - layout: top-left
         title: TOEIC® Listening and Reading Test 870分
         caption: 2017
         description: |
           ![image](./images/多益.jpeg)
+      - layout: top-left
+        title: American Mathematics Competitions 12
+        sub_title: (AMC12)
+        caption: 2019
+        description: |
+          ![image](./images/AMC12.jpeg)
       - layout: top-left
         title: 泳渡日月潭
         caption: 2016
