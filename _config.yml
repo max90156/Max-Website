@@ -105,7 +105,7 @@ content:
       - layout: left
         title: 帆宣系統科技的「華南銀行 Data Base Center」建案
         sub_title: Intern
-        caption: July - September 2021
+        caption: 2021/7 ~ 2021/9
         link: https://www.micb2b.com/about/introduction/
         #quote: >
         description: | # this will include new lines to allow paragraphs
@@ -115,7 +115,7 @@ content:
       - layout: left
         title: 雨林新零售
         sub_title: Intern
-        caption: July - September 2020
+        caption: 2020/7 ~ 2020/9
         link: https://www.rainforestretail.com.tw/
         quote: >
           雨林新零售 就像是品牌零售商的經紀人
@@ -184,17 +184,47 @@ content:
           
           大富翁是一款經典的童玩遊戲，老少咸宜，從一開始的桌上型遊戲，到後來有很多相關的電腦遊戲。
           所以我們設計了一個以台大校園為基底的大富翁遊戲，其中的遊戲元素都採用台大校園裡的景物，比方說可以買下總圖、人物有教授和助教、事件有獲得獎學金之類的。
+      - layout: left
+        title: Radial_basis_functions
+        #additional_links:
+         # - title: EasterEgg
+          #  icon: fab fa-github
+           # url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+         # - title:  EasterEgg
+          #  icon: fab fa-github
+           # url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+        quote: >
+          利用Radial basis functions1u逼近
+        description: | # this will include new lines to allow paragraphs
+          ![image](./images/RBF.png)
+          
+      - layout: left
+        title: 信用卡盜刷偵測
+        #additional_links:
+         # - title: EasterEgg
+          #  icon: fab fa-github
+           # url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+         # - title:  EasterEgg
+          #  icon: fab fa-github
+           # url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+        quote: >
+          根據所提供的信用卡交易授權資料，運用機器學習演算法預測潛在的盜刷交易，並建構信用卡偵測模型，提前發現客戶信用卡被盜刷的事件。
+        description: | # this will include new lines to allow paragraphs
+          ![image](./images/信用卡.png)
+
      
   - title: A Little More About Me
     layout: list
     content: 
       - layout: top-left
-        title: GRE General Test 326分
+        title: GRE General Test 
+        sub_title: 326分
         caption: 2023
         description: |
           ![image](./images/GRE.png)
       - layout: top-left
-        title: TOEIC® Listening and Reading Test 870分
+        title: TOEIC® Listening and Reading Test 
+        sub_title: 870分
         caption: 2017
         description: |
           ![image](./images/多益.jpeg)
