@@ -110,8 +110,7 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
           在帆宣實習的期間，我在工務所負責整理資料和製作自主檢查表及每日報告，而在工地時，我擔任工程師的助手，協助他們完成各項任務。這些都是非常難得的經驗。
-          
-          ![image](./images/IMG_7463.JPG)
+
       - layout: left
         title: 雨林新零售
         sub_title: Intern
