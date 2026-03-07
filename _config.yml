@@ -146,20 +146,20 @@ content:
     #    title: PowerPoint
     #    sub_title: 中等
         
-  - title: Languages
-    layout: list
-    content:
-      - layout: top-middle
-        title: 中文
-        sub_title: 精通
+  # - title: Languages
+  #   layout: list
+  #   content:
+  #     - layout: top-middle
+  #       title: 中文
+  #       sub_title: 精通
     
-      - layout: top-middle
-        title: English
-        sub_title: 精通
+  #     - layout: top-middle
+  #       title: English
+  #       sub_title: 精通
         
-      - layout: top-middle
-        title: 日本語
-        sub_title: 略懂
+  #     - layout: top-middle
+  #       title: 日本語
+  #       sub_title: 略懂
                     
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -188,7 +188,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ![image](./images/RBF.png)
 
-          利用Radial basis functions逼近
+          探討如何使用徑向基底函數 (RBF) 來對雙變數函數進行插值與逼近 。
           
       - layout: left
         title: 信用卡盜刷偵測
